@@ -1,6 +1,8 @@
 # dice
 A Dice Game - built from Scrimba - Front End Web Development Course.
 
+The Demo can be found here: https://dillon-porter.github.io/dice/
+
 Once the player reaches a score of 20, the game stops and announces a winner.
 
 Created a game using JavaScript with a little bit of HTML and CSS
