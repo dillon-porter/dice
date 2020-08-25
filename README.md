@@ -1,5 +1,5 @@
 # dice
-A Dice Game
+A Dice Game - built from Scrimba - Front End Web Development Course.
 
 Once the player reaches a score of 20, the game stops and announces a winner.
 
